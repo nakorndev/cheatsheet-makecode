@@ -1,0 +1,17 @@
+{
+  "mainUrl": "https://nakorndev.github.io/cheatsheet-makecode/",
+  "title": "MakeCode Cheatsheet",
+  "description": "สูตรโกงสำหรับการใช้งาน MakeCode",
+  "keywords": "cheatsheet, makecode",
+  "themeLight": false,
+  "themeColor": "#A4268A",
+  "lang": "th",
+  "author": {
+    "name": "nakorndev",
+    "link": "http://github.com/nakorndev"
+  },
+  "menus": [
+    { "label": "เรียนรู้การเขียนโค้ดกับ นครโค้ด", "href": "https://www.facebook.com/nakorncode" },
+    { "label": "รวมสูตรโกงอื่นๆ", "href": "https://nakorndev.github.io/cheatsheet/" }
+  ]
+}
