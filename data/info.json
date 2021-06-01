@@ -1,5 +1,6 @@
 {
   "mainUrl": "https://nakorndev.github.io/cheatsheet-makecode/",
+  "startUrl": "/cheatsheet-makecode/",
   "title": "MakeCode Cheatsheet",
   "description": "สูตรโกงสำหรับการใช้งาน MakeCode",
   "keywords": "cheatsheet, makecode",
